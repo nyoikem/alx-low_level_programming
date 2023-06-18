@@ -3,10 +3,11 @@
 #include <stdio.h>
 
 /**
- * main – Entry point
- * Description - This program will assign a random number to the variable n
+ * main - print the last digit of a variable
+ *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int n;
